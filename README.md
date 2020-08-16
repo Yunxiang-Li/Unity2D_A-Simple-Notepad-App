@@ -24,8 +24,11 @@ If user wants to close the App, he/she can do this by clicking the **close icon*
 ## Exhibition
 
 ![Notepad exhibition_One](https://github.com/Yunxiang-Li/Unity2D_A-Simple-Notepad-App/blob/master/Screenshots%20and%20GIFs/Notepad%20exhibition_1.gif)
+
 ![Notepad exhibition_Two](https://github.com/Yunxiang-Li/Unity2D_A-Simple-Notepad-App/blob/master/Screenshots%20and%20GIFs/Notepad%20exhibition_2.gif)
+
 ![Intro Scene](https://github.com/Yunxiang-Li/Unity2D_A-Simple-Notepad-App/blob/master/Screenshots%20and%20GIFs/IntroScene.PNG)
+
 ![MainApp Scene](https://github.com/Yunxiang-Li/Unity2D_A-Simple-Notepad-App/blob/master/Screenshots%20and%20GIFs/MainAppScene.PNG)
 
 ## Install
