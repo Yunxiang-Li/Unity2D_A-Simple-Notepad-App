@@ -40,7 +40,7 @@ I use Unity2019.3.11f1 and JetBrain's Rider IDE for this project under Windows 1
 
 ## Usage
 
-1. Download this repo, open(or zip and open) the **Unity2D_A-Simple-Notepad-App** folder.
+1. Download this repo, open(or unzip and open) the **Unity2D_A-Simple-Notepad-App** folder.
 
 2. Open the **Unity Hub**, from the Home Screen, click **Projects** to view the **Projects** tab.
 
